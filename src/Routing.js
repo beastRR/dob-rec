@@ -1,5 +1,5 @@
 import React from "react";
-// import App from "./App";
+import App from "./App";
 import {BrowserRouter,Route, Routes} from "react-router-dom";
 import Demo from "./Demo";
 
@@ -11,6 +11,9 @@ const Routing=()=>(
             <Route path="/yo" element={<Demo/>}/>
                 
         </Routes>
+     <Routes>
+       <Route path="/home" element={<App/>}/>
+     </Routes>
     </BrowserRouter>
 );
 
