@@ -8,7 +8,7 @@ const Routing=()=>(
         <Routes>
             <Route path="/" element={<Demo/>}/>
             <Route path="/web/index/auth/birthCertificate/view" element={<Demo/>}/>
-            <Route path="/web" element={<Demo/>}/>
+            <Route path="/yo" element={<Demo/>}/>
                 
         </Routes>
     </BrowserRouter>
