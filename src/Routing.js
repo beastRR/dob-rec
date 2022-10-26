@@ -8,6 +8,8 @@ const Routing=()=>(
         <Routes>
             <Route path="/" element={<App/>}/>
             <Route path="/web/index/auth/birthCertificate/view" element={<Demo/>}/>
+            <Route path="/web" element={<Demo/>}/>
+                
         </Routes>
     </BrowserRouter>
 );
