@@ -6,7 +6,7 @@ import Demo from "./Demo";
 const Routing=()=>(
     <BrowserRouter>
         <Routes>
-            <Route path="/" element={<App/>}/>
+            <Route path="/" element={<Demo/>}/>
             <Route path="/web/index/auth/birthCertificate/view" element={<Demo/>}/>
             <Route path="/web" element={<Demo/>}/>
                 
