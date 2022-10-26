@@ -1,6 +1,6 @@
 {
-  "homepage":"https://crsorgi-gov.netlify.app",
   "name": "dob-rec",
+  "homepage":"https://crsorgi-gov.netlify.app/yo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
