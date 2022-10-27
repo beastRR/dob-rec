@@ -5,6 +5,7 @@ import Demo from "./Demo";
 
 const Routing=()=>{
     return(
+        <>
         
         <BrowserRouter>
         <Routes>
@@ -14,6 +15,7 @@ const Routing=()=>{
             </Routes>
            
         </BrowserRouter>
+    </>
     )
 }
 export default Routing;
