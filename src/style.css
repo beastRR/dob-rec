@@ -5,12 +5,12 @@
 
 }
 .main ,.box{
-    background-image: url("jh.jpg");
+/*     background-image: url("jh.jpg"); */
     /* background-repeat:repeat; */
-    background-size: 6%;
+/*     background-size: 6%; */
     /* background */
 }
-.bg{
+/* .bg{
     width: 70%;
     height: 90%;
-}
+} */
