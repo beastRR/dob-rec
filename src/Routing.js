@@ -3,18 +3,23 @@ import App from "./App";
 import {BrowserRouter,Route, Routes} from "react-router-dom";
 import Demo from "./Demo";
 
-const Routing=()=>(
-    <BrowserRouter>
+const Routing=()=>{
+    return(
+        
+        <BrowserRouter>
         <Routes>
-            <Route path="/" element={<Demo/>}/>
-            <Route path="/web/index/auth/birthCertificate/view" element={<Demo/>}/>
-            <Route path="/yo" element={<Demo/>}/>
-                
+            <Route  path ="/home"  element= {<Demo/>} />
+            <Route path="/about" element={<Demo/>}/>
+            <Route path="/projects" element={<Demo/>}/>
+            </Routes>
+            <Routes>
+                <Route path="/blog" element={<Demo/>}/>
+                <Route path="/blog/blog1" element={<Demo/>}/>
+                <Route path="/blog2" element={<Demo/>}/> 
+            
+            
         </Routes>
-     <Routes>
-       <Route path="/home" element={<App/>}/>
-     </Routes>
-    </BrowserRouter>
-);
-
+        </BrowserRouter>
+    )
+}
 export default Routing;
