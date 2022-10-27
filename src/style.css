@@ -1,9 +1,8 @@
 .box{
-/*     box-shadow: 3px 3px 7px 7px rgb(137, 134, 134); */
+    box-shadow: 3px 3px 7px 7px rgb(137, 134, 134);
     margin:0% 0% 4% 0%;
     padding: 5% 0 40% 0;
-    width:10%;
-    height:30%;
+    
     background:white;
     
 
@@ -12,5 +11,10 @@
 .main{
     background:white;
     text-align:center;
+}
+
+.bg{
+    width: 70%;
+    height: 90%;
 }
 
