@@ -3,7 +3,7 @@ import demo from "./rec/newDobDemo.jpg";
 import "./style.css";
 
 const Demo=()=>(
-    <div className=" main">
+    <div className="text-center main">
         <div>
             <div className="text-center box">
                 <img className="bg" src={demo} alt="demo" />
