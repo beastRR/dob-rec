@@ -9,16 +9,10 @@ const Routing=()=>{
         <BrowserRouter>
         <Routes>
             <Route  path ="/home"  element= {<Demo/>} />
-            <Route path="/about" element={<Demo/>}/>
+            <Route to="/about" element={<Demo/>}/>
             <Route path="/projects" element={<Demo/>}/>
             </Routes>
-            <Routes>
-                <Route path="/blog" element={<Demo/>}/>
-                <Route path="/blog/blog1" element={<Demo/>}/>
-                <Route path="/blog2" element={<Demo/>}/> 
-            
-            
-        </Routes>
+           
         </BrowserRouter>
     )
 }
