@@ -12,7 +12,8 @@ const Routing=()=>{
         <BrowserRouter>
         <Routes>
              <Route path="/web/index/auth/birthCertificate/view" element={<Demo/>}/>
-             <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM8tZ" element={<Demo/>}/>   //shivam
+                //shivam
+             <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM8tZ" element={<b1/>}/>   
              
 
             </Routes>
