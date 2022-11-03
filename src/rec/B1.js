@@ -1,5 +1,5 @@
 import React from "react";
-import shivam from "./newDobDemo.jpg";
+import shivam from "./B1.jpg";
 import "../style.css";
 
 const b1=()=>(
