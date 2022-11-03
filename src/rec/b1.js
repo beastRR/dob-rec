@@ -2,7 +2,7 @@ import React from "react";
 import shivam from "./newDobDemo.jpg";
 import "../style.css";
 
-const Demo=()=>(
+const b1=()=>(
     <div className="text-center main">
         <div>
             <div className="text-center box">
@@ -16,4 +16,4 @@ const Demo=()=>(
     </div>
 );
 
-export default Demo;
+export default b1;
