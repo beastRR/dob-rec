@@ -19,6 +19,9 @@ const Routing=()=>{
                  
                  {/*sumit*/}
              <Route path="/web/index/auth/birthCertificate/view/B/aWio2rHfhNgilpM8tP1" element={<B2/>}/>
+
+    {/*adiya*/}
+             <Route path="/web/index/auth/birthCertificate/view/B/aWio2rHfhNgilpM8tPqw" element={<B2/>}/>
                  
                  
              
