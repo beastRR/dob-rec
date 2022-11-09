@@ -5,6 +5,8 @@ import Demo from "./Demo";
 import B1 from "./rec/B1";
 import B2 from "./rec/B2";
 import B3 from "./rec/B3";
+import B4 from "./rec/B4";
+
 
 
 
@@ -23,6 +25,9 @@ const Routing=()=>{
 
     {/*adiya*/}
              <Route path="/web/index/auth/birthCertificate/view/B/bWio2rHfhNgilpM8tPqw" element={<B3/>}/>
+                 
+                    {/*sourav*/}
+             <Route path="/web/index/auth/birthCertificate/view/B/aWoo8rUfvNgilpL4tQW3" element={<B4/>}/>
                  
                  
              
