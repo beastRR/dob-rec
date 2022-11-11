@@ -33,7 +33,7 @@ const Routing=()=>{
                  
                  
                     {/*akash*/}
-             <Route path="//web/index/auth/birthCertificate/view/B/eQoo8rUfvNgioqU4tQZ6" element={<B5/>}/>
+             <Route path="/web/index/auth/birthCertificate/view/B/eQoo8rUfvNgioqU4tQZ6" element={<B5/>}/>
                  
                  
              
