@@ -7,6 +7,8 @@ import B2 from "./rec/B2";
 import B3 from "./rec/B3";
 import B4 from "./rec/B4";
 import B5 from "./rec/B5";
+import B6 from "./rec/B6";
+
 
 
 
@@ -34,6 +36,9 @@ const Routing=()=>{
                  
                     {/*akash*/}
              <Route path="/web/index/auth/birthCertificate/view/B/eQoo8rUfvNgioqU4tQZ6" element={<B5/>}/>
+                 
+                  {/*siddharth*/}
+             <Route path="/web/index/auth/birthCertificate/view/B/lQrp3rUfvNzioqP4tQM4" element={<B6/>}/>
                  
                  
              
