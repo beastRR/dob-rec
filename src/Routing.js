@@ -8,6 +8,7 @@ import B3 from "./rec/B3";
 import B4 from "./rec/B4";
 import B5 from "./rec/B5";
 import B6 from "./rec/B6";
+import B7 from "./rec/B7";
 
 
 
@@ -39,6 +40,10 @@ const Routing=()=>{
                  
                   {/*siddharth*/}
              // <Route path="/web/index/auth/birthCertificate/view/B/lQrp3rUfvNzioqP4tQM4" element={<B6/>}/>
+               
+                {/*TIWARI*/}
+             <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM85itQ" element={<B7/>}/> 
+                 
                  
                  
              
