@@ -26,20 +26,20 @@ const Routing=()=>{
              <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM8tZ1" element={<B1/>}/> 
                  
                  {/*sumit*/}
-             // <Route path="/web/index/auth/birthCertificate/view/B/aWio2rHfhNgilpM8tP1" element={<B2/>}/>
+{/* <Route path="/web/index/auth/birthCertificate/view/B/aWio2rHfhNgilpM8tP1" element={<B2/>}/>*/}
 
     {/*adiya*/}
              <Route path="/web/index/auth/birthCertificate/view/B/bWio2rHfhNgilpM8tPqw" element={<B3/>}/>
                  
                     {/*sourav*/}
-             // <Route path="/web/index/auth/birthCertificate/view/B/aWoo8rUfvNgilpL4tQW3" element={<B4/>}/>
+{/* <Route path="/web/index/auth/birthCertificate/view/B/aWoo8rUfvNgilpL4tQW3" element={<B4/>}/>*/}
                  
                  
                     {/*akash*/}
-             // <Route path="/web/index/auth/birthCertificate/view/B/eQoo8rUfvNgioqU4tQZ6" element={<B5/>}/>
+{/* <Route path="/web/index/auth/birthCertificate/view/B/eQoo8rUfvNgioqU4tQZ6" element={<B5/>}/>*/}
                  
                   {/*siddharth*/}
-             // <Route path="/web/index/auth/birthCertificate/view/B/lQrp3rUfvNzioqP4tQM4" element={<B6/>}/>
+    {/* <Route path="/web/index/auth/birthCertificate/view/B/lQrp3rUfvNzioqP4tQM4" element={<B6/>}/>*/}
                
                 {/*TIWARI*/}
              <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM85itQ" element={<B7/>}/> 
