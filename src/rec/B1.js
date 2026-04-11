@@ -18,7 +18,7 @@ const b1=()=>(
     }}>
       <img src={logo} alt="Centered" style={{ maxWidth: '100%' }} />
     </div>
-      </div><p>
+      </div><p/>
             <div className="text-center box">
  <img className="bg" src={shivam} alt="data" />
      
