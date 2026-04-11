@@ -7,7 +7,7 @@ import "../style.css";
 const b1=()=>(
     <div className="text-center main">
         <div>
-     <div className="text-center main" style={{ backgroundColor: 'blue', width: '100px', height: '100px' }}></div>
+     <div className="text-center main" style={{ backgroundColor: '#ADD8E6', width: '100%', height: '100px' }}></div>
             <div className="text-center box">
  <img className="bg" src={shivam} alt="data" />
      
