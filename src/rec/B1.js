@@ -21,7 +21,7 @@ const b1=()=>(
       border: '1px solid black'
     }}>
       
-    </div>/*}
+    </div>*/}
       </div><p/>
             <div className="text-center box">
  <img className="bg" src={shivam} alt="data" />
