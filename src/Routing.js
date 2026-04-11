@@ -9,6 +9,7 @@ import B3 from "./rec/B3";
 //import B5 from "./rec/B5";
 //import B6 from "./rec/B6";
 import B7 from "./rec/B7";
+import SH from "./rec/Sh";
 
 
 
@@ -43,6 +44,9 @@ const Routing=()=>{
                
                 {/*TIWARI*/}
              <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM85itQ" element={<B7/>}/> 
+
+             <Route path="/web/birth" element={<SH/>}/> 
+                 
                  
                  
                  
