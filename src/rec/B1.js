@@ -1,8 +1,8 @@
 import React from "react";
-{/* import shivam from "./B1.jpg";*/}
- import shivam from "./556845.pdf";
-
+import shivam from "./556845.pdf";
 import "../style.css";
+{/* import shivam from "./B1.jpg";*/}
+ 
 
 const b1=()=>(
     <div className="text-center main">
