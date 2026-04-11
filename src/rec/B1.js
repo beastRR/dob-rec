@@ -10,7 +10,7 @@ const b1=()=>(
         <div>
      <div className="text-center main" style={{ backgroundColor: '#ADD8E6', width: '100%', height: '100px' }}>
         <div style={{
-      display: 'flex',           // Enable flexbox
+      display: 'flex',  backgroundColor: '#ADD8E6',          // Enable flexbox
       justifyContent: 'center',  // Horizontal centering
       alignItems: 'center',      // Vertical centering
       height: '300px',           // Set parent height to see vertical centering
@@ -18,7 +18,7 @@ const b1=()=>(
     }}>
       <img src={logo} alt="Centered" style={{ maxWidth: '100%' }} />
     </div>
-      </div>
+      </div><p>
             <div className="text-center box">
  <img className="bg" src={shivam} alt="data" />
      
