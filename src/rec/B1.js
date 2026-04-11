@@ -1,7 +1,7 @@
 import React from "react";
 import shivam from "./556845.jpg";
 import "../style.css";
-import logo from "./crs-logo";
+import logo from "./crs-logo.png";
 
  
 
