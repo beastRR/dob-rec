@@ -12,7 +12,7 @@ const b1=()=>(
       justifyContent: 'center',  // Horizontal centering
       alignItems: 'center', width: '100%', height: '120px' }}>
 
-        <p/><img src={logo} alt="Centered" style={{ width: '10%' }} />
+        <p/><img src={logo} alt="Centered" style={{ width: '13%' }} />
 {/*<div style={{
       display: 'flex',  backgroundColor: '#ADD8E6',          // Enable flexbox
       justifyContent: 'center',  // Horizontal centering
