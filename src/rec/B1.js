@@ -1,5 +1,7 @@
 import React from "react";
 {/* import shivam from "./B1.jpg";*/}
+ import shivam from "./556845.pdf";
+
 import "../style.css";
 
 const b1=()=>(
@@ -8,7 +10,7 @@ const b1=()=>(
             <div className="text-center box">
 {/*// <img className="bg" src={shivam} alt="data" />*/}
      <embed
-        src="/556845.pdf"
+        src="shivam"
         type="application/pdf"
         width="100%"
         height="100%"
