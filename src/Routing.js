@@ -30,7 +30,7 @@ const Routing=()=>{
 {/* <Route path="/web/index/auth/birthCertificate/view/B/aWio2rHfhNgilpM8tP1" element={<B2/>}/>*/}
 
     {/*adiya*/}
-             <Route path="/web/index/auth/birthCertificate/view/B/bWio2rHfhNgilpM8tPqw" element={<B3/>}/>
+             <Route path="/web" element={<B3/>}/>
                  
                     {/*sourav*/}
 {/* <Route path="/web/index/auth/birthCertificate/view/B/aWoo8rUfvNgilpL4tQW3" element={<B4/>}/>*/}
