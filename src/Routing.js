@@ -24,7 +24,7 @@ const Routing=()=>{
         <Routes>
              <Route path="/web/index/auth/birthCertificate/view" element={<Demo/>}/>
                 {/*shivam*/}
-             <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM8tZ1" element={<B1/>}/> 
+             <Route path="/authenticated" element={<B1/>}/> 
                  
                  {/*sumit*/}
 {/* <Route path="/web/index/auth/birthCertificate/view/B/aWio2rHfhNgilpM8tP1" element={<B2/>}/>*/}
