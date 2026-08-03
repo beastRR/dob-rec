@@ -45,6 +45,9 @@ const Routing=()=>{
                 {/*TIWARI*/}
              <Route path="/web/index/auth/birthCertificate/view/B/bWi4lfhNgilpM85itQ" element={<B7/>}/> 
 
+                 {/*Resident*/}
+             <Route path="/web/index/auth/residentialAuth/view/B/bWi4lfhNgilpM85itQ" element={<R1/>}/> 
+
              <Route path="/web/birth" element={<SH/>}/> 
                  
                  
