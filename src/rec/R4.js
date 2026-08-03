@@ -1,5 +1,5 @@
 import React from "react";
-import SOU from "./R4.jpg";
+import SOU from "./R1.jpg";
 import "../style.css";
 
 const r4=()=>(
