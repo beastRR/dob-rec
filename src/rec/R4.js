@@ -5,12 +5,12 @@ import service from "./crs-logo.png";
 
 const r4=()=>(
     <div>
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+    <div style={{ width:'50%' , height:'50%', display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
       <img src={service} alt="Centered" />
     </div>
         <div>
             <div className="text-center box">
-                <img className="bg" src={SOU} alt="data" />
+                <img className="bg" src={SOU} alt="data" style={{width:'40%', height:'40%'/>
             </div>
         </div>
         {/* <div>
