@@ -4,7 +4,7 @@ import "../style.css";
 import service from "./crs-logo.png";
 
 const r4=()=>(
-    <div className="text-center main">
+    <div>
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
       <img src={service} alt="Centered" />
     </div>
